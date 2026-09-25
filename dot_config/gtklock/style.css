@@ -1,0 +1,22 @@
+window {
+  background-image: url("/home/negan/Pictures/lockscreen/lock1.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#clock-label {
+  font-size: 32px;
+  color: white;
+  font-weight: 400;
+}
+
+#date-label {
+  font-size: 16px;
+  color: #dddddd;
+}
+
+entry {
+  background-color: rgba(30,30,30,0.6);
+  color: white;
+  border-radius: 4px;
+}
